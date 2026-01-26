@@ -1,7 +1,7 @@
 # Hotel Booking Cancellation Analysis:-
 ---------------------------------------
 
-<img src="https://github.com/Saikat-Pradhan/AQI-Index-Analysis-using-Power-BI/blob/main/AQI%20Index%20Analysis%20Dashboard%20Sample%20Picture%20.png" width="" style="border-radius:50%" />
+<img src="https://github.com/Saikat-Pradhan/Hotel_Booking_Cancellation-Analysis/blob/main/Dashboard%20Sample%20Picture.png" style="border-radius:50%" />
 
 ## Project Overview:-
 This project explores booking behavior and cancellation patterns within hotel data, using Microsoft Excel. 
